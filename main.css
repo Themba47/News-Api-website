@@ -89,7 +89,7 @@ ul li a {
 			text-align: center;
 		}
 #welcome-page {
-	background-image: url(../img/news.jpg);
+	background-image: url(news.jpg);
 	background-color: black;
 	background-size: cover;
 	height: 100vh;
