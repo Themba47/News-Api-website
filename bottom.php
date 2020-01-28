@@ -3,9 +3,9 @@
 					<div class="thesummary" id="thesocial">
 						<h1>Social Media</h1>
 						<div class="social-icons">
-							<a href="#"><img src="img/facebook-square-brands.svg"></a>
-							<a href="#"><img src="img/insta.png"></a>
-							<a href="#"><img src="img/twitter-brands.svg"></a>
+							<a href="#"><img src="facebook-square-brands.svg"></a>
+							<a href="#"><img src="insta.png"></a>
+							<a href="#"><img src="twitter-brands.svg"></a>
 						</div>
 					</div>
 				</div>
