@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="stylesheet" type="text/css" href="main.css">
 <header>
 	<div><img src=""></div>
 	<div><h3>News Watch</h3></div>
